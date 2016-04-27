@@ -1,2 +1,0 @@
-# RefreshLayout
- Drop-down refresh
